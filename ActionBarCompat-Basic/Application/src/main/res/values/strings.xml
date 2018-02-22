@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">ActionBarSearchView</string>
+    <string-array name="array_countly">
+        <item>Amnat Charoen</item>
+        <item>Ang Thong</item>
+        <item>Bangkok</item>
+        <item>Buri Ram</item>
+        <item>Cha Choeng Sao</item>
+        <item>Chai Nat</item>
+        <item>Chaiyaphum</item>
+        <item>Chantha Buri</item>
+        <item>Chiang Mai</item>
+        <item>Chiang Rai</item>
+        <item>Chon Buri</item>
+        <item>Chumphon</item>
+        <item>Kalasin</item>
+        <item>Kamphaeng Phet</item>
+        <item>Kanchana Buri</item>
+        <item>Khon Kaen</item>
+        <item>Krabi</item>
+        <item>Lampang</item>
+        <item>Lamphun</item>
+        <item>Loei</item>
+        <item>Lop Buri</item>
+        <item>Mae Hong Son</item>
+        <item>Maha Sarakham</item>
+        <item>Muk Dahan</item>
+        <item>Nakhon Nayok</item>
+        <item>Nakhon Pathom</item>
+        <item>Nakhon Phanom</item>
+        <item>Nakhon Rajcha Sima</item>
+        <item>Nakhon Sawan</item>
+        <item>Nakhon Sri Thammarat</item>
+        <item>Nan</item>
+        <item>Nara Thiwat</item>
+        <item>Nong Bua Lumphu</item>
+        <item>Nongkai</item>
+        <item>Nontha Buri</item>
+        <item>Pathum Thani</item>
+        <item>Pattani</item>
+        <item>Phang Nga</item>
+        <item>Phatthalung</item>
+        <item>Phayao</item>
+        <item>Phetcha Buri</item>
+        <item>Phetchabun</item>
+        <item>Phichit</item>
+        <item>Phit Sanulok</item>
+        <item>Phra Nakhon Sri Ayutthaya</item>
+        <item>Phrae</item>
+        <item>Phuket</item>
+        <item>Prachin Buri</item>
+        <item>Prachuap Khiri Khan</item>
+        <item>Rajcha Buri</item>
+        <item>Ranong</item>
+        <item>Rayong</item>
+        <item>Roi Et></item>
+        <item>Sakon Nakhon</item>
+        <item>Samut Prakan</item>
+        <item>Samut Sakhon</item>
+        <item>Samut Songkhram</item>
+        <item>Sara Buri</item>
+        <item>Satun</item>
+        <item>Si Saket</item>
+        <item>Sing Buri</item>
+        <item>Songkhla</item>
+        <item>Sra Kiao</item>
+        <item>SuKhothai</item>
+        <item>Suphan Buri</item>
+        <item>Surat Thani</item>
+        <item>Surin</item>
+        <item>Tak</item>
+        <item>Trang</item>
+        <item>Trat</item>
+        <item>Ubon Rajchathani</item>
+        <item>Udon Thani</item>
+        <item>Uthai Thani</item>
+        <item>Utta Radit</item>
+        <item>Ya Sothon</item>
+        <item>Yala</item>
+
+    </string-array>
+</resources>
